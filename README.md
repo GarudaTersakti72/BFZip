@@ -1,6 +1,6 @@
 Brute Force Zip File Tested By Termux<br>
 Coded by ZxC7 - Garuda Tersakti 72<br><br>
-How To make it? Coppy command this is, and Happy BruteForce ^_^<br>
+How To make it?<br> Coppy command this is, and Happy BruteForce ^_^<br>
 apt update<br>
 apt upgrade<br>
 pkg install git<br>
